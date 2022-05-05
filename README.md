@@ -1,2 +1,2 @@
 # hygdata_v3-hertzsprung-russell-diagram-
-고2때 수행
+Performance evaluation work in the second year of high school
